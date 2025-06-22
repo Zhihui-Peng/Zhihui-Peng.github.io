@@ -1,6 +1,6 @@
 (() => {
   // ns-hugo-params:/home/runner/work/Zhihui-Peng.github.io/Zhihui-Peng.github.io/themes/hugo-theme-bootstrap/assets/js/local-storage/index.ts
-  var local_storage_default = { baseURL: "https://projects.razonyang.com/hugo-theme-bootstrap-skeleton/" };
+  var local_storage_default = { baseURL: "https://zhihui-peng.github.io/" };
 
   // ns-hugo-imp:/home/runner/work/Zhihui-Peng.github.io/Zhihui-Peng.github.io/themes/hugo-theme-bootstrap/assets/js/local-storage/index.ts
   var PathLocalStorage = class {
